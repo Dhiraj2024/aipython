@@ -1,0 +1,5 @@
+.env
+*.env
+__pycache__/
+*.pyc
+/billi2/ap.py

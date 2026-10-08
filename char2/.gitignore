@@ -1,0 +1,6 @@
+.env
+*.env
+__pycache__/
+*.pyc
+p.py
+/char2/p.py

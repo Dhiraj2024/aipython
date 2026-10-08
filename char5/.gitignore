@@ -1,0 +1,6 @@
+.env
+*.env
+__pycache__/
+*.pyc
+app.py
+/char5/app.py
